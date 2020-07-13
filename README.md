@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am working as a freelance SAAS developer with some serious contribution to TIFAC Core in Cyber Security on a Blockchain project. 
+
+Reach me through https://nidhin.dev and read me through https://read.nidhin.dev . 
+
+Open to collaboration on contract jobs.
 <!--
 **nidhinmahesh/nidhinmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
