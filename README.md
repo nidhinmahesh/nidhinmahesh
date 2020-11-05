@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am working as a freelance SAAS developer with ongoing serious contribution to TIFAC Core in Cyber Security on a Blockchain project. 
+I am working as a freelance SAAS developer with ongoing serious contribution to Ensurity, a cyber security startup. 
 
 Reach me through https://nidhin.dev and read me through https://read.nidhin.dev . 
 
