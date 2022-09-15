@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am working as a freelance SAAS developer with ongoing serious contribution to Rubix Blockchain Platform (L1), a cyber security startup. 
+I am working as a freelance SAAS developer with ongoing serious contribution to Rubix Blockchain Platform (L1), a cyber security startup. </br>
 
-Reach me through https://nidhin.dev and read me through https://read.nidhin.dev . 
+Reach me through https://nidhin.dev and read me through https://nidhinmahesh.github.io </br>
 
 Open to collaboration on contract jobs.
 <!--
